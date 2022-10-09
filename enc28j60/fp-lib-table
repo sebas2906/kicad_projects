@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "EasyEda")(type "KiCad")(uri "/home/sebas/Documents/kicad/easyeda2kicad6/files/EasyEDA.pretty")(options "")(descr ""))
+)

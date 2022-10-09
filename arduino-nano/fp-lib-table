@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "NanoV3.3")(type "KiCad")(uri "${KIPRJMOD}/NanoV3.3.pretty")(options "")(descr ""))
+  (lib (name "atmega328")(type "KiCad")(uri "${KIPRJMOD}/library/atmega328")(options "")(descr ""))
+)
